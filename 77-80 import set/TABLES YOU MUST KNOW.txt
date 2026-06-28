@@ -1,0 +1,12 @@
+TABLES YOU MUST KNOW:
+
+Normal table extends -> sys_import_set_row ---> become a staginG table
+
+sys_import_set      --->  
+
+sys_data_source
+
+sys_transform_map    --->
+
+sys_transform_entry   ---> These map data from a staging table to a target table. 
+
